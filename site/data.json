@@ -1,0 +1,109 @@
+{
+  "slug": "community-studio",
+  "host": "community",
+  "title": "Community Studio",
+  "tagline": "Forums, groups, badges and moderation",
+  "description": "Build forums, groups, and member directories with badges and reputation. Manage moderation queues, guidelines, and leaderboards, run ambassador programs and event feeds, send activity digests, and track community growth analytics.",
+  "editors": [
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Forum Editor",
+      "desc": "Discussion board and thread management"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Member Directory Editor",
+      "desc": "Community member profile directory"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Group/Channel Editor",
+      "desc": "Sub-community group configuration"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Badge/Reputation Editor",
+      "desc": "Gamified reputation and badge rules"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Moderation Queue Editor",
+      "desc": "Content moderation and flagging workflow"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Community Guidelines Editor",
+      "desc": "Rules and code-of-conduct publishing"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Event Feed Editor",
+      "desc": "Community event listing and RSVP"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Leaderboard Editor",
+      "desc": "Member ranking and leaderboard configuration"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Ambassador Program Editor",
+      "desc": "Community advocate program management"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Discussion Digest Editor",
+      "desc": "Automated activity digest emails"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Poll Editor",
+      "desc": "Community poll and voting creation"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Onboarding Tour Editor",
+      "desc": "New member welcome flow"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Community Analytics Editor",
+      "desc": "Engagement and growth reporting"
+    },
+    {
+      "category": "Community & Engagement Editors",
+      "name": "Private Messaging Editor",
+      "desc": "Member-to-member messaging configuration"
+    }
+  ],
+  "services": [
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "customer",
+      "core"
+    ],
+    [
+      "review",
+      "new"
+    ],
+    [
+      "search",
+      "core"
+    ],
+    [
+      "media",
+      "new"
+    ],
+    [
+      "moderation",
+      "gap"
+    ],
+    [
+      "realtime",
+      "gap"
+    ]
+  ]
+}
